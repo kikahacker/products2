@@ -65,3 +65,4 @@ C:\Users\Admin\Desktop\avalon\AvaloniaApplication1\AvaloniaApplication1\obj\Debu
 C:\Users\Admin\Desktop\avalon\AvaloniaApplication1\AvaloniaApplication1\obj\Debug\net8.0\Avalonia.FDB175D9.Up2Date
 C:\Users\Admin\Desktop\avalon\AvaloniaApplication1\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.genruntimeconfig.cache
 C:\Users\Admin\Desktop\avalon\AvaloniaApplication1\AvaloniaApplication1\obj\Debug\net8.0\ref\AvaloniaApplication1.dll
+C:\Users\Admin\Desktop\avalon\AvaloniaApplication1\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.sourcelink.json

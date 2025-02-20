@@ -24,7 +24,7 @@ public partial class MainWindow : Window
 
         public override string ToString()
         {
-            return $"{name} ({kolichestvo}шт) - {price:rub} за шт Описание: {discr}"; 
+            return $"{name} ({kolichestvo}шт) - {price}:rub за шт Описание: {discr}"; 
         }
     }
     ObservableCollection<listTovars> list;
