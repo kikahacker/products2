@@ -6,6 +6,6 @@
         x:Class="AvaloniaApplication1.Window1"
         Title="Window1">
 	<StackPanel Background="White">
-		<ListBox x:Name="nado" Foreground="Red"/>
+		<ListBox SelectionMode="Single" x:Name="nado" Foreground="Red"/>
 	</StackPanel>
 </Window>

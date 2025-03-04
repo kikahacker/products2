@@ -3,11 +3,11 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
-        x:Class="AvaloniaApplication1.MainWindow"
-        Title="AvaloniaApplication1"
-		Height="350"
-		MinHeight="350"
+        x:Class="AvaloniaApplication1.Window2"
+        Title="Window2"
+		MinHeight="255"
 		MinWidth="300"
+		Height="255"
 		Width="300">
 	<Window.Styles>
 		<Style Selector="TextBox.h1 /template/ TextBlock#PART_Watermark">
@@ -22,16 +22,16 @@
 			<Setter Property="Background" Value="AntiqueWhite"/>
 		</Style>
 	</Window.Styles>
-	<Grid RowDefinitions="*,350,*" ColumnDefinitions="*,300,*" Background="Azure">
+	<Grid RowDefinitions="*,255,*" ColumnDefinitions="*,300,*" Background="Azure">
 		<StackPanel Grid.Column="1" Grid.Row="1" Background="Cornsilk">
-			<TextBlock Classes="h1" Margin="0 5 0 0" TextAlignment="Center" FontWeight="Bold" Foreground="Black" FontSize="16">Добавить продукт</TextBlock>
+			<TextBlock Classes="h1" Margin="0 5 0 0" TextAlignment="Center" FontWeight="Bold" Foreground="Black" FontSize="16">Редактировать продукт</TextBlock>
 			<TextBox Classes="h1" Margin="10 10 10 0" Background="Cornsilk" Opacity="1.5" Name="Name" Watermark="Имя товара"></TextBox>
 			<TextBox Classes="h1" Margin="10 10 10 0" Background="Cornsilk" Opacity="1.5" Name="Price" Watermark="Цена товара"></TextBox>
 			<TextBox Classes="h1" Margin="10 10 10 0" Background="Cornsilk" Opacity="1.5" Name="Discription" Watermark="Описание товара"></TextBox>
 			<TextBox Classes="h1" Margin="10 10 10 0" Background="Cornsilk" Opacity="1.5" Name="kolvo" Watermark="Количество"></TextBox>
 			<StackPanel Orientation="Horizontal">
-				<Button Content="Добавить" Margin="30 10 0 0" Click="Button_Click" Background="AntiqueWhite"></Button>
-				<Button Content="Посмотреть" Margin="50 10 0 0" Click="Button_Click1" Background="AntiqueWhite"></Button>
+				<Button Content="SAVE" Click="Button_Click" Margin="80,15,0,0" Background="AntiqueWhite"></Button>
+				<Button Content="EXIT" Click="Button_Click_1" Margin="40,15,0,0" Background="AntiqueWhite"></Button>
 			</StackPanel>
 		</StackPanel>
 	</Grid>
