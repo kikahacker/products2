@@ -11,6 +11,7 @@ public partial class Window2 : Window
 {
     private listTovars WW;
     private ObservableCollection<listTovars> ww;
+
     public Window2()
     {
         InitializeComponent();
@@ -40,6 +41,7 @@ public partial class Window2 : Window
 
     private void Button_Click_1(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
+        new Window1(ww).Show();
         Close();
     }
     

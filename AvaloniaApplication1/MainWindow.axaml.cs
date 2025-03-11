@@ -28,6 +28,7 @@ public partial class MainWindow : Window
         }
     }
     ObservableCollection<listTovars> list;
+    
     private void Button_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
         string a = Name.Text;
@@ -35,6 +36,7 @@ public partial class MainWindow : Window
         string c = Discription.Text;
         int d = Convert.ToInt32(kolvo.Text);
         list.Add(new listTovars { name = a, price = b, kolichestvo = d, discr = c });
+        
         InitializeComponent();
     }
 

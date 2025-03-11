@@ -26,18 +26,32 @@ public partial class Window1 : Window
         InitializeComponent();
         nado.ItemsSource = a;
         nado.SelectionChanged += listBox1_SelectedIndexChanged;
+        
     }
     private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
     {
         if (nado.SelectedItem is listTovars sel)
         {
-            var lox123 = new Window2(sel,b);
-            lox123.Show();
+            var l123 = new Window2(sel,b);
+            l123.Show();
             Close();
         }
-        
+    }
+
+    private void Button_Click_1(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
+    {
+        if(sender is Button button)
+        {
+            listTovars tovarDel = (listTovars)button.DataContext;
+            if (b.Contains(tovarDel))
+            {
+                b.Remove(tovarDel);
+                nado.ItemsSource = null;
+                nado.ItemsSource = b;
+            }
+        }
+        new Window1(b).Show();
+        Close();
         
     }
-    
-    
 }
