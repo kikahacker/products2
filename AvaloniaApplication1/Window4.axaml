@@ -1,0 +1,54 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="AvaloniaApplication1.Window4"
+        Title="Window4"
+		MaxWidth="500"
+		MaxHeight="600"
+		MinHeight="500"
+		MinWidth="600"
+		Width="500"
+		Height="600">
+	<Window.Styles>
+		<Style Selector="TextBox.h1 /template/ TextBlock#PART_Watermark">
+			<Setter Property="Foreground" Value="Black" />
+			<Setter Property="FontWeight" Value="Bold"/>
+			<Setter Property="FontFamily" Value="Italic"/>
+		</Style>
+		<Style Selector="TextBox:pointerover">
+			<Setter Property="Background" Value="AntiqueWhite"/>
+		</Style>
+		<Style Selector="TextBox:focus-visible">
+			<Setter Property="Background" Value="AntiqueWhite"/>
+		</Style>
+	</Window.Styles>
+	<Grid Background="Azure">
+		<StackPanel  Background="Cornsilk">
+			<TextBlock Classes="h1" Margin="0 5 0 0" TextAlignment="Center" FontWeight="Bold" Foreground="Black" FontSize="16">Корзина</TextBlock>
+			<ListBox SelectionMode="Single" Background="Cornsilk" HorizontalAlignment="Left" x:Name="nado1" Height="255" Width="300" Foreground="Black" ScrollViewer.VerticalScrollBarVisibility="Visible">
+				<ListBox.ItemTemplate>
+					<DataTemplate>
+						<Grid>
+							<StackPanel Orientation="Horizontal">
+								<TextBlock Text="{Binding}" Margin="10 10 10 10"/>
+								<StackPanel>
+									<Button Click="Button_Click_1" Width="30" Height="30" Margin="5 0 0 5" Content="+"/>
+									<Button Click="Button_Click_2" Width="30" Height="30" Margin="5 0 0 5" Content="-"/>
+								</StackPanel>
+							</StackPanel>
+						</Grid>
+					</DataTemplate>
+				</ListBox.ItemTemplate>
+			</ListBox>
+		</StackPanel>
+		<StackPanel HorizontalAlignment="Right" VerticalAlignment="Bottom" Background="Cornsilk">
+			<StackPanel Orientation="Horizontal">
+				<TextBlock Background="Cornsilk">Общая сумма:</TextBlock>
+				<TextBlock Margin="5 0 0 0" Background="Cornsilk" Name="sum"></TextBlock>
+			</StackPanel>
+			<Button Margin="0 10 0 10" Click="Button_Click" HorizontalAlignment="Center" Content="Назад"></Button>
+		</StackPanel>
+	</Grid>
+</Window>

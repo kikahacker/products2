@@ -9,23 +9,21 @@ namespace AvaloniaApplication1;
 
 public partial class Window2 : Window
 {
-    private listTovars WW;
-    private ObservableCollection<listTovars> ww;
-
+    private Tovars WW;
+    private listTovars ww;
     public Window2()
     {
         InitializeComponent();
     }
-    public Window2(listTovars a, ObservableCollection<listTovars> ww)
+    public Window2(listTovars a,Tovars sel)
     {
+        ww = a;
+        WW = sel;
         InitializeComponent();
-        WW = a;
-        this.ww = ww;
         Name.Text = WW.name;
         Price.Text = WW.price.ToString();
         kolvo.Text = WW.kolichestvo.ToString();
         Discription.Text = WW.discr;
-
     }
 
     private void Button_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)

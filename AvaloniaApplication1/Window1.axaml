@@ -5,22 +5,34 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="AvaloniaApplication1.Window1"
         Title="Window1"
-		MinHeight="400"
-		MinWidth="400"
-		Height="400"
-		Width="400">
-	<StackPanel Background="White">
-		<ListBox SelectionMode="Single" x:Name="nado" Height="400" Width="400" Foreground="Red" ScrollViewer.VerticalScrollBarVisibility="Visible">
-			<ListBox.ItemTemplate>
-				<DataTemplate>
-					<Grid>
-						<StackPanel Orientation="Horizontal">
-							<TextBlock Text="{Binding}" Margin="10 10 10 10"/>
-							<Button Click="Button_Click_1" Margin="10 0 0 0" Content="Delete" FontSize="10" Background="Cyan" Foreground="Red"></Button>
-						</StackPanel>
-					</Grid>
-				</DataTemplate>
-			</ListBox.ItemTemplate>
-		</ListBox>
-	</StackPanel>
+		MinHeight="470"
+		MinWidth="550"
+		Height="470"
+		Width="550">
+	<Grid>
+		<StackPanel Background="White">
+			<Panel>
+				<StackPanel HorizontalAlignment="Right"  VerticalAlignment="Top">
+					<Button Click="Button_Click_2"  Content="Назад"></Button>
+					<Button Click="Button_Click_3"  Content="Выход"></Button>
+				</StackPanel>
+				<ListBox SelectionMode="Single" HorizontalAlignment="Left" Background="White" x:Name="nado" Height="400" Width="470" Foreground="Black" ScrollViewer.VerticalScrollBarVisibility="Visible">
+					<ListBox.ItemTemplate>
+						<DataTemplate>
+							<Grid>
+								<StackPanel Orientation="Horizontal">
+									<TextBlock Text="{Binding}" Margin="10 10 10 10"/>
+									<Button Click="Button_Click_1" Margin="10 0 0 0" Content="Delete" FontSize="10" Background="DeepSkyBlue" Foreground="Blue"></Button>
+									<Button Click="Button_Click_5" Margin="10 0 0 0" Content="В корзину" FontSize="10" Background="DeepSkyBlue" Foreground="Blue"></Button>
+								</StackPanel>
+							</Grid>
+						</DataTemplate>
+					</ListBox.ItemTemplate>
+				</ListBox>
+			</Panel>
+		</StackPanel>
+		<StackPanel HorizontalAlignment="Right" VerticalAlignment="Bottom">
+			<Button Click="Button_Click_4" Content="Корзина" Width="80"></Button>
+		</StackPanel>
+	</Grid>
 </Window>
