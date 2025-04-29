@@ -4,6 +4,7 @@ using Avalonia.Markup.Xaml;
 using static AvaloniaApplication1.MainWindow;
 using System.Collections.ObjectModel;
 using System;
+using AvaloniaApplication1.Screens;
 
 namespace AvaloniaApplication1;
 

@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AvaloniaApplication1.Screens;
 
 namespace AvaloniaApplication1
 {
-    public class busket
+    public class BusketClass
     {
         public List<tovarsInBusket> list;
-        public busket()
+        public BusketClass()
         {
             list = new List<tovarsInBusket>();
         }

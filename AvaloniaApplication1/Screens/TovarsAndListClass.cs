@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Avalonia.Media.Imaging;
 
-namespace AvaloniaApplication1
+namespace AvaloniaApplication1.Screens
 {
+    
     public class Tovars
     {
         public string name { get; set; }

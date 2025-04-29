@@ -1,5 +1,6 @@
 using Avalonia.Controls;
 using Avalonia.Controls.Notifications;
+using AvaloniaApplication1.Screens;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -21,6 +22,7 @@ public partial class MainWindow : Window
         string c = Discription.Text;
         int d = Convert.ToInt32(kolvo.Text);
         bool asd = true;
+        
         if (a != null && b > 0 && d>0)
         {
             

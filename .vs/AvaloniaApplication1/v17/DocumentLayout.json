@@ -1,54 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\prdb\\products\\",
+  "WorkspaceRootPath": "C:\\Users\\blockchain\\source\\repos\\products2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\window4.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\window4.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\screens\\alladdedtovars.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\screens\\alladdedtovars.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\window1.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\window1.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\screens\\addtovarscreencode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\screens\\addtovarscreencode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\window2.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\window2.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\screens\\errorscreen.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\screens\\errorscreen.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\window2.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\window2.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\screens\\alladdedtovarscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\screens\\alladdedtovarscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\window3.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\window3.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\screens\\tovarsandlistclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\screens\\tovarsandlistclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\window3.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\window3.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\window4.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\window4.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\window1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\window1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\screens\\busketscreen.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\screens\\busketscreen.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\busketclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\busketclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\products\\avaloniaapplication1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\screens\\edittovarscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\screens\\edittovarscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\screens\\busketcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\screens\\busketcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\screens\\addtovarscreen.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\screens\\addtovarscreen.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\blockchain\\source\\repos\\products2\\avaloniaapplication1\\screens\\edittovarscreen.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{3DA92FAD-1BF6-46EB-9A5E-03690612D2EE}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\screens\\edittovarscreen.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,158 +74,192 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Window1.axaml",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window1.axaml",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\Window1.axaml",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window1.axaml",
-              "RelativeToolTip": "AvaloniaApplication1\\Window1.axaml",
+              "DocumentIndex": 6,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\App.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\App.axaml",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\App.axaml",
+              "RelativeToolTip": "AvaloniaApplication1\\App.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T15:30:46.089Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-04-29T12:01:31.01Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:28:32.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:28:03.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Window1.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window1.axaml.cs",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\Window1.axaml.cs",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window1.axaml.cs",
-              "RelativeToolTip": "AvaloniaApplication1\\Window1.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Title": "AddTovarScreenCode.cs",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\AddTovarScreenCode.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Screens\\AddTovarScreenCode.cs",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\AddTovarScreenCode.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\Screens\\AddTovarScreenCode.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowD0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:38:50.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\ImageHelper.cs",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\ImageHelper.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\ImageHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:13:51.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorScreen.axaml",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\ErrorScreen.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Screens\\ErrorScreen.axaml",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\ErrorScreen.axaml",
+              "RelativeToolTip": "AvaloniaApplication1\\Screens\\ErrorScreen.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T10:10:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllAddedTovars.axaml",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\AllAddedTovars.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Screens\\AllAddedTovars.axaml",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\AllAddedTovars.axaml",
+              "RelativeToolTip": "AvaloniaApplication1\\Screens\\AllAddedTovars.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T15:30:46.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllAddedTovarsCode.cs",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\AllAddedTovarsCode.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Screens\\AllAddedTovarsCode.cs",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\AllAddedTovarsCode.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\Screens\\AllAddedTovarsCode.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T10:57:02.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Window2.axaml",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window2.axaml",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\Window2.axaml",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window2.axaml",
-              "RelativeToolTip": "AvaloniaApplication1\\Window2.axaml",
+              "DocumentIndex": 14,
+              "Title": "EditTovarScreen.axaml",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\EditTovarScreen.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Screens\\EditTovarScreen.axaml",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\EditTovarScreen.axaml",
+              "RelativeToolTip": "AvaloniaApplication1\\Screens\\EditTovarScreen.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-03T09:16:00.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Window2.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window2.axaml.cs",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\Window2.axaml.cs",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window2.axaml.cs",
-              "RelativeToolTip": "AvaloniaApplication1\\Window2.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAeAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "EditTovarScreen.cs",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\EditTovarScreen.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Screens\\EditTovarScreen.cs",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\EditTovarScreen.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\Screens\\EditTovarScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T09:16:00.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Window4.axaml",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window4.axaml",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\Window4.axaml",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window4.axaml",
-              "RelativeToolTip": "AvaloniaApplication1\\Window4.axaml",
+              "DocumentIndex": 9,
+              "Title": "BusketScreen.axaml",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\BusketScreen.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Screens\\BusketScreen.axaml",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\BusketScreen.axaml",
+              "RelativeToolTip": "AvaloniaApplication1\\Screens\\BusketScreen.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-24T07:56:58.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Window4.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window4.axaml.cs",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\Window4.axaml.cs",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window4.axaml.cs",
-              "RelativeToolTip": "AvaloniaApplication1\\Window4.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "BusketCode.cs",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\BusketCode.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Screens\\BusketCode.cs",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\BusketCode.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\Screens\\BusketCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T07:56:58.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Window3.axaml",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window3.axaml",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\Window3.axaml",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window3.axaml",
-              "RelativeToolTip": "AvaloniaApplication1\\Window3.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T10:10:06.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Window3.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window3.axaml.cs",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\Window3.axaml.cs",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Window3.axaml.cs",
-              "RelativeToolTip": "AvaloniaApplication1\\Window3.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:57:15.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\MainWindow.axaml",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\MainWindow.axaml",
-              "RelativeToolTip": "AvaloniaApplication1\\MainWindow.axaml",
+              "DocumentIndex": 13,
+              "Title": "AddTovarScreen.axaml",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\AddTovarScreen.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Screens\\AddTovarScreen.axaml",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\AddTovarScreen.axaml",
+              "RelativeToolTip": "AvaloniaApplication1\\Screens\\AddTovarScreen.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-19T15:19:51.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainWindow.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\MainWindow.axaml.cs",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\MainWindow.axaml.cs",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\MainWindow.axaml.cs",
-              "RelativeToolTip": "AvaloniaApplication1\\MainWindow.axaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvxgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:19:47.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class2.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Class2.cs",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\Class2.cs",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Class2.cs",
-              "RelativeToolTip": "AvaloniaApplication1\\Class2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAWwCkAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "BusketClass.cs",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\BusketClass.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\BusketClass.cs",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\BusketClass.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\BusketClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T08:59:46.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Class1.cs",
-              "RelativeDocumentMoniker": "AvaloniaApplication1\\Class1.cs",
-              "ToolTip": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\Class1.cs",
-              "RelativeToolTip": "AvaloniaApplication1\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "TovarsAndListClass.cs",
+              "DocumentMoniker": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\TovarsAndListClass.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Screens\\TovarsAndListClass.cs",
+              "ToolTip": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\Screens\\TovarsAndListClass.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\Screens\\TovarsAndListClass.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T08:14:39.831Z"
+              "WhenOpened": "2025-03-18T08:14:39.831Z",
+              "EditorCaption": ""
             }
           ]
         }

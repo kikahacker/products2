@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prdb\\products\\AvaloniaApplication1\\AvaloniaApplication1.csproj": {}
+    "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\AvaloniaApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prdb\\products\\AvaloniaApplication1\\AvaloniaApplication1.csproj": {
+    "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\AvaloniaApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\AvaloniaApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\AvaloniaApplication1.csproj",
         "projectName": "AvaloniaApplication1",
-        "projectPath": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\AvaloniaApplication1.csproj",
-        "packagesPath": "C:\\Users\\prdb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prdb\\products\\AvaloniaApplication1\\obj\\",
+        "projectPath": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\AvaloniaApplication1.csproj",
+        "packagesPath": "C:\\Users\\blockchain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\blockchain\\source\\repos\\products2\\AvaloniaApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\prdb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\blockchain\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -69,6 +69,10 @@
             "Avalonia.Themes.Fluent": {
               "target": "Package",
               "version": "[11.2.1, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.4.0, )"
             }
           },
           "imports": [
@@ -87,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
